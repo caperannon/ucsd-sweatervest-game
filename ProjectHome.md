@@ -1,0 +1,1 @@
+Game written in C# for fun. Using microsoft XNA framework for game code, and Tiled for the map editor. All other code and libraries are self made.
